@@ -358,16 +358,8 @@ blockquote footer span:first-child {
   margin: 40px 0 0;
 }
 
-.contacts p:first-of-type {
-  margin-right: 40px;
-}
-
-.contacts a {
+.get-in-touch a {
   color: #fff;
-}
-
-.contact .button {
-  margin-top: 20px;
 }
 
 /* media queries*/
